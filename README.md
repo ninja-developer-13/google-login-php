@@ -1,6 +1,7 @@
 # google-login-php
 In this tutorial you will learn How to Implement Google Login API in PHP.
  Create Google API Console Project
+
 1.Go to Google Console https://console.developers.google.com/
 
 2.Create New Project to a new project.
@@ -25,7 +26,7 @@ A dialog box will appear with Client ID and Client secret. This Client ID and Cl
     add your domain into app domain, application home page, application privacy policy
     Enter your developer contact information
 
-6.Install google api client library using below command
+5.Install google api client library using below command
  
    composer require google/apiclient:"^2.0"
 
