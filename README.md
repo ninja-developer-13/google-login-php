@@ -18,6 +18,7 @@ In this tutorial you will learn How to Implement Google Login API in PHP.
     Click the Create button.
 
 A dialog box will appear with Client ID and Client secret. This Client ID and Client secret allow you to access the Google APIs.
+
 4.Select Oauth Consent and specify below.
 
     In App name field, enter the name of your application
